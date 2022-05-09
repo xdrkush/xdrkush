@@ -85,11 +85,6 @@
   </a>
 </p>
 
-<p align="center">
 ![xDrKush GitHub stats](https://github-readme-stats.vercel.app/api?username=xdrkush&show_icons=true&theme=github_dark)
-</p>
-
-<p align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xdrkush&layout=compact&show_icons=true&theme=github_dark)
-</p>
 
