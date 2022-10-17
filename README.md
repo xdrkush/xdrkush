@@ -4,17 +4,20 @@
 
 <div align="center">
 
-![xDrKush GitHub stats](https://github-readme-stats.vercel.app/api?username=xdrkush&show_icons=true&theme=merko)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xdrkush&layout=compact&show_icons=true&theme=merko)
-
 
 <h3>Retrouvez tous mes tutos ici:</h3>
 
 <a href="https://github.com/xdrkush/tutos" target="_blank" rel="noreferrer">
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=xdrkush&repo=tutos&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+
 </a>
+
+![xDrKush GitHub stats](https://github-readme-stats.vercel.app/api?username=xdrkush&show_icons=true&theme=merko)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xdrkush&layout=compact&show_icons=true&theme=merko)
+
+
 
 <h3>Favorites Tools & Languages:</h3>
 <p>
