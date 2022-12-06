@@ -13,11 +13,9 @@
 
 </a>
 
-![xDrKush GitHub stats](https://github-readme-stats.vercel.app/api?username=xdrkush&show_icons=true&theme=merko)
+<img src="https://github.com/xdrkush/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xdrkush&layout=compact&show_icons=true&theme=merko)
-
-
+<img src="https://github.com/xdrkush/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 
 <h3>Favorites Tools & Languages:</h3>
 <p>
