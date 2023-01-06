@@ -9,13 +9,13 @@
 
 <a href="https://github.com/xdrkush/tutos" target="_blank" rel="noreferrer">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=xdrkush&repo=tutos&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/xdrkush/github-readme-stats)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=xdrkush&repo=tutos&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 </a>
 
-[![xDrKush GitHub stats](https://github-readme-stats.vercel.app/api?username=xdrkush&show_icons=true&theme=merko)](https://github.com/xdrkush/github-readme-stats)
+![xDrKush GitHub stats](https://github-readme-stats.vercel.app/api?username=xdrkush&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xdrkush&layout=compact&show_icons=true&theme=merko)](https://github.com/xdrkush/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xdrkush&layout=compact&show_icons=true&theme=merko)
 
 
 <h3>Favorites Tools & Languages:</h3>
